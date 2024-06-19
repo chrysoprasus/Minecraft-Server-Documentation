@@ -1,7 +1,7 @@
 # Minecraft-Server-Documentation
 # Making a Minecraft server using raspberry pi
 
-By: James Logan
+By: James
 
 ### Step 1
 Check for updates
